@@ -16,6 +16,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Configuration", "Configurat
 		.gitignore = .gitignore
 		nuget.config = nuget.config
 		README.md = README.md
+		TdsGlobal.config = TdsGlobal.config
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{DAFED8F5-6CBD-4384-AAD6-DC3BCCF24911}"
@@ -27,11 +28,24 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{D27C83
 	ProjectSection(SolutionItems) = preProject
 		documentation\images\deal-with-it.gif = documentation\images\deal-with-it.gif
 		documentation\images\hackathon.png = documentation\images\hackathon.png
+		documentation\images\verndale.jpg = documentation\images\verndale.jpg
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "common", "common", "{DE4BD009-1EED-481B-B032-3112E5F8E8B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project.Common.Website", "src\Project\Common\Project.Common.Website\Project.Common.Website.csproj", "{40E12199-B305-4FE5-A73C-58E77F113E2C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project.Common.Website", "src\Project\Common\code\Project.Common.Website\Project.Common.Website.csproj", "{40E12199-B305-4FE5-A73C-58E77F113E2C}"
+EndProject
+Project("{CAA73BB0-EF22-4D79-A57E-DF67B3BA9C80}") = "Sitecore.TDS.Master", "src\Project\Common\tds\Sitecore.TDS.Master\Sitecore.TDS.Master.scproj", "{4B74011A-D848-4AEF-AE12-6AFA0B6E6620}"
+EndProject
+Project("{CAA73BB0-EF22-4D79-A57E-DF67B3BA9C80}") = "Sitecore.TDS.Core", "src\Project\Common\tds\Sitecore.TDS.Core\Sitecore.TDS.Core.scproj", "{FBF8E0B1-FA4E-4128-AFF0-CAD397968A72}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hackathon", "Hackathon", "{B7DBE783-3BAA-47F8-9365-77EA03CEB530}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project.Hackathon.Website", "src\Project\Hackathon\code\Project.Hackathon.Website\Project.Hackathon.Website.csproj", "{978F9486-DF07-4377-87BC-DEEC16489B5E}"
+EndProject
+Project("{CAA73BB0-EF22-4D79-A57E-DF67B3BA9C80}") = "Hackathon.Website.Master", "src\Project\Hackathon\tds\Hackathon.Website.Master\Hackathon.Website.Master.scproj", "{07B612C6-B455-4701-A7D7-CAFE159CF382}"
+EndProject
+Project("{CAA73BB0-EF22-4D79-A57E-DF67B3BA9C80}") = "Hackathon.Website.Content", "src\Project\Hackathon\tds\Hackathon.Website.Content\Hackathon.Website.Content.scproj", "{EB3DA5D8-7DD5-4FA9-812E-77BA0409A274}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -43,6 +57,34 @@ Global
 		{40E12199-B305-4FE5-A73C-58E77F113E2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40E12199-B305-4FE5-A73C-58E77F113E2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40E12199-B305-4FE5-A73C-58E77F113E2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B74011A-D848-4AEF-AE12-6AFA0B6E6620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B74011A-D848-4AEF-AE12-6AFA0B6E6620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B74011A-D848-4AEF-AE12-6AFA0B6E6620}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4B74011A-D848-4AEF-AE12-6AFA0B6E6620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B74011A-D848-4AEF-AE12-6AFA0B6E6620}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B74011A-D848-4AEF-AE12-6AFA0B6E6620}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{FBF8E0B1-FA4E-4128-AFF0-CAD397968A72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBF8E0B1-FA4E-4128-AFF0-CAD397968A72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBF8E0B1-FA4E-4128-AFF0-CAD397968A72}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FBF8E0B1-FA4E-4128-AFF0-CAD397968A72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBF8E0B1-FA4E-4128-AFF0-CAD397968A72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBF8E0B1-FA4E-4128-AFF0-CAD397968A72}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{978F9486-DF07-4377-87BC-DEEC16489B5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{978F9486-DF07-4377-87BC-DEEC16489B5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{978F9486-DF07-4377-87BC-DEEC16489B5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{978F9486-DF07-4377-87BC-DEEC16489B5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07B612C6-B455-4701-A7D7-CAFE159CF382}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07B612C6-B455-4701-A7D7-CAFE159CF382}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07B612C6-B455-4701-A7D7-CAFE159CF382}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{07B612C6-B455-4701-A7D7-CAFE159CF382}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07B612C6-B455-4701-A7D7-CAFE159CF382}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07B612C6-B455-4701-A7D7-CAFE159CF382}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{EB3DA5D8-7DD5-4FA9-812E-77BA0409A274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB3DA5D8-7DD5-4FA9-812E-77BA0409A274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB3DA5D8-7DD5-4FA9-812E-77BA0409A274}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{EB3DA5D8-7DD5-4FA9-812E-77BA0409A274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB3DA5D8-7DD5-4FA9-812E-77BA0409A274}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB3DA5D8-7DD5-4FA9-812E-77BA0409A274}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -51,6 +93,12 @@ Global
 		{D27C83D2-2EAF-4E44-A1ED-2B3C2EBB5854} = {DAFED8F5-6CBD-4384-AAD6-DC3BCCF24911}
 		{DE4BD009-1EED-481B-B032-3112E5F8E8B0} = {15D97D61-D597-42EC-B7E9-E9EC8130E630}
 		{40E12199-B305-4FE5-A73C-58E77F113E2C} = {DE4BD009-1EED-481B-B032-3112E5F8E8B0}
+		{4B74011A-D848-4AEF-AE12-6AFA0B6E6620} = {DE4BD009-1EED-481B-B032-3112E5F8E8B0}
+		{FBF8E0B1-FA4E-4128-AFF0-CAD397968A72} = {DE4BD009-1EED-481B-B032-3112E5F8E8B0}
+		{B7DBE783-3BAA-47F8-9365-77EA03CEB530} = {15D97D61-D597-42EC-B7E9-E9EC8130E630}
+		{978F9486-DF07-4377-87BC-DEEC16489B5E} = {B7DBE783-3BAA-47F8-9365-77EA03CEB530}
+		{07B612C6-B455-4701-A7D7-CAFE159CF382} = {B7DBE783-3BAA-47F8-9365-77EA03CEB530}
+		{EB3DA5D8-7DD5-4FA9-812E-77BA0409A274} = {B7DBE783-3BAA-47F8-9365-77EA03CEB530}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.Common.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.6.0.1304.0\lib\portable-net45+win+wp8;packages\EnterpriseLibrary.TransientFaultHandling.Caching.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.Data.6.0.1304.1\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.ServiceBus.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.WindowsAzure.Storage.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.Configuration.6.0.1304.0\lib\NET45

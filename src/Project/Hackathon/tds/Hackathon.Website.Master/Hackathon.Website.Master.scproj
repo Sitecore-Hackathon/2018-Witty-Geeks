@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>07b612c6-b455-4701-a7d7-cafe159cf382</ProjectGuid>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <EnableUpdateable>true</EnableUpdateable>
+    <UseMerge>true</UseMerge>
+    <SingleAssemblyName>Hackathon.Website.Master</SingleAssemblyName>
+    <UseWebConfigReplacement>false</UseWebConfigReplacement>
+    <DeleteAppCodeCompiledFiles>true</DeleteAppCodeCompiledFiles>
+    <LegacyFileReplacement>false</LegacyFileReplacement>
+    <AssemblyName>Hackathon.Website.Master</AssemblyName>
+    <Name>Hackathon.Website.Master</Name>
+    <RootNamespace>Hackathon.Website.Master</RootNamespace>
+    <ManageRoles>False</ManageRoles>
+    <SitecoreDatabase>master</SitecoreDatabase>
+    <AssemblyStatus>Exclude</AssemblyStatus>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>.\bin\Debug\</OutputPath>
+    <RecursiveDeployAction>Ignore</RecursiveDeployAction>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>false</DebugSymbols>
+    <OutputPath>.\bin\Release\</OutputPath>
+    <RecursiveDeployAction>Ignore</RecursiveDeployAction>
+  </PropertyGroup>
+  <ItemGroup>
+    <AssemblyAttributes Include="AssemblyFileVersion">
+      <Value>$(AssemblyFileVersion)</Value>
+    </AssemblyAttributes>
+    <AssemblyAttributes Include="AssemblyVersion">
+      <Value>$(AssemblyVersion)</Value>
+    </AssemblyAttributes>
+  </ItemGroup>
+  <ItemGroup>
+    <SourceWebProjects Include="{978f9486-df07-4377-87bc-deec16489b5e}|src\Project\Hackathon\code\Project.Hackathon.Website\Project.Hackathon.Website.csproj">
+      <SourceWebPhysicalPath>..\..\code\Project.Hackathon.Website</SourceWebPhysicalPath>
+      <SourceWebVirtualPath>/Project.Hackathon.Website.csproj</SourceWebVirtualPath>
+      <SourceWebProjectId>978f9486-df07-4377-87bc-deec16489b5e</SourceWebProjectId>
+    </SourceWebProjects>
+    <SourceWebProjects Include="{978f9486-df07-4377-87bc-deec16489b5e}|src\Project\Hackathon\Project.Hackathon.Website\Project.Hackathon.Website.csproj">
+      <SourceWebPhysicalPath>..\..\code\Project.Hackathon.Website</SourceWebPhysicalPath>
+      <SourceWebVirtualPath>/Project.Hackathon.Website.csproj</SourceWebVirtualPath>
+      <SourceWebProjectId>978f9486-df07-4377-87bc-deec16489b5e</SourceWebProjectId>
+    </SourceWebProjects>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\code\Project.Hackathon.Website\Project.Hackathon.Website.csproj">
+      <Project>{978f9486-df07-4377-87bc-deec16489b5e}</Project>
+      <Name>Project.Hackathon.Website</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\HedgehogDevelopment\SitecoreProject\v9.0\HedgehogDevelopment.SitecoreProject.targets" Condition="Exists('$(MSBuildExtensionsPath)\HedgehogDevelopment\SitecoreProject\v9.0\HedgehogDevelopment.SitecoreProject.targets')" />
+</Project>

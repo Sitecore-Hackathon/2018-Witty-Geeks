@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>4b74011a-d848-4aef-ae12-6afa0b6e6620</ProjectGuid>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <EnableUpdateable>true</EnableUpdateable>
+    <UseMerge>true</UseMerge>
+    <SingleAssemblyName>Sitecore.TDS.Master</SingleAssemblyName>
+    <UseWebConfigReplacement>false</UseWebConfigReplacement>
+    <DeleteAppCodeCompiledFiles>true</DeleteAppCodeCompiledFiles>
+    <LegacyFileReplacement>false</LegacyFileReplacement>
+    <AssemblyName>Sitecore.TDS.Master</AssemblyName>
+    <Name>Sitecore.TDS.Master</Name>
+    <RootNamespace>Sitecore.TDS.Master</RootNamespace>
+    <ManageRoles>False</ManageRoles>
+    <SitecoreDatabase>master</SitecoreDatabase>
+    <AssemblyStatus>Exclude</AssemblyStatus>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>.\bin\Debug\</OutputPath>
+    <RecursiveDeployAction>Ignore</RecursiveDeployAction>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>false</DebugSymbols>
+    <OutputPath>.\bin\Release\</OutputPath>
+    <RecursiveDeployAction>Ignore</RecursiveDeployAction>
+  </PropertyGroup>
+  <ItemGroup>
+    <AssemblyAttributes Include="AssemblyFileVersion">
+      <Value>$(AssemblyFileVersion)</Value>
+    </AssemblyAttributes>
+    <AssemblyAttributes Include="AssemblyVersion">
+      <Value>$(AssemblyVersion)</Value>
+    </AssemblyAttributes>
+  </ItemGroup>
+  <ItemGroup>
+    <SourceWebProjects Include="{40e12199-b305-4fe5-a73c-58e77f113e2c}|src\Project\Common\code\Project.Common.Website\Project.Common.Website.csproj">
+      <SourceWebPhysicalPath>..\..\code\Project.Common.Website</SourceWebPhysicalPath>
+      <SourceWebVirtualPath>/Project.Common.Website.csproj</SourceWebVirtualPath>
+      <SourceWebProjectId>40e12199-b305-4fe5-a73c-58e77f113e2c</SourceWebProjectId>
+    </SourceWebProjects>
+    <SourceWebProjects Include="{40e12199-b305-4fe5-a73c-58e77f113e2c}|src\Project\Common\Project.Common.Website\Project.Common.Website.csproj">
+      <SourceWebPhysicalPath>..\..\code\Project.Common.Website</SourceWebPhysicalPath>
+      <SourceWebVirtualPath>/Project.Common.Website.csproj</SourceWebVirtualPath>
+      <SourceWebProjectId>40e12199-b305-4fe5-a73c-58e77f113e2c</SourceWebProjectId>
+    </SourceWebProjects>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\code\Project.Common.Website\Project.Common.Website.csproj">
+      <Project>{40e12199-b305-4fe5-a73c-58e77f113e2c}</Project>
+      <Name>Project.Common.Website</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\HedgehogDevelopment\SitecoreProject\v9.0\HedgehogDevelopment.SitecoreProject.targets" Condition="Exists('$(MSBuildExtensionsPath)\HedgehogDevelopment\SitecoreProject\v9.0\HedgehogDevelopment.SitecoreProject.targets')" />
+</Project>

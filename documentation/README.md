@@ -55,6 +55,7 @@ Provide documentation  about your module, how do the users use your module, wher
 Please include screenshots where necessary. You can add images to the `./images` folder and then link to them from your documentation:
 
 ![Hackathon Logo](images/hackathon.png?raw=true "Hackathon Logo")
+![Verndale Logo](images/verndale.jpg?raw=true "Verndale Logo")
 
 You can embed images of different formats too:
 
