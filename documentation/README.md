@@ -1,24 +1,29 @@
 # Documentation
 
-The documentation for this years Hackathon must be provided as a readme in Markdown format as part of your submission. 
 
-You can find a very good reference to Github flavoured markdown reference in [this cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). If you want something a bit more WYSIWYG for editing then could use [StackEdit](https://stackedit.io/app) which provides a more user friendly interface for generating the Markdown code. Those of you who are [VS Code fans](https://code.visualstudio.com/docs/languages/markdown#_markdown-preview) can edit/preview directly in that interface too.
-
-Examples of things to include are the following.
 
 ## Summary
 
-**Category:** Hackathon Category
+**Category:** SXA (Sitecore Experience Accelator)
 
 What is the purpose of your module? What problem does it solve and how does it do that?
+The main goal of SXA is to speed up production of websites which means we are looking at multiple authors. 
+These authors might be working on same modules/pages/components and will need a way to properly communicate and connect with each other. 
+We took inspiration from an existing feature provided by SXA called sticky notes, but, took it further. 
+Sticky notes are great perk that SXA offers, but, they are not very apparent - We plan to enhance it to 
+-- Narrow the sticky note to be more specific to a user by enabling tagging to a specific user. 
+-- Adding a quick notification on content authoring window to provide quick sneak peak at sticky notes added
+    -- Still debating if it would be on page level or on content authoring level.
+[Sticky Note on SXA](https://doc.sitecore.net/sitecore_experience_accelerator/working_with_content/adding_and_changing_content/add_a_sticky_note "Sticky Note")
 
 ## Pre-requisites
 
 Does your module rely on other Sitecore modules or frameworks?
 
-- List any dependencies
-- Or other modules that must be installed
-- Or services that must be enabled/configured
+- Ensure you have Sitecore 9.1 installed (All pre-requisites needed for 9.1 should be installed as well)
+  [Sitecore 9.1](https://doc.sitecore.net/sitecore_experience_accelerator/setting_up_and_configuring "Sitecore 9.1")
+- Ensure you have Sitecore Experience Accelerator Version 1.6 installed. 
+  [Sitecore Experience Accelerator](https://doc.sitecore.net/sitecore_experience_accelerator/setting_up_and_configuring "Set up SXA")
 
 ## Installation
 
