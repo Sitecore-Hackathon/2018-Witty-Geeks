@@ -2,6 +2,7 @@
 
 
 
+
 ## Summary
 
 **Category:** SXA (Sitecore Experience Accelator)
@@ -15,6 +16,8 @@ Sticky notes are great perk that SXA offers, but, they are not very apparent - W
 -- Adding a quick notification on content authoring window to provide quick sneak peak at sticky notes added
     -- Still debating if it would be on page level or on content authoring level.
 [Sticky Note on SXA](https://doc.sitecore.net/sitecore_experience_accelerator/working_with_content/adding_and_changing_content/add_a_sticky_note "Sticky Note")
+
+How does the end user use the Module?
 
 ## Pre-requisites
 
@@ -63,13 +66,7 @@ Please include screenshots where necessary. You can add images to the `./images`
 ![Hackathon Logo](images/hackathon.png?raw=true "Hackathon Logo")
 ![Verndale Logo](images/verndale.jpg?raw=true "Verndale Logo")
 
-You can embed images of different formats too:
 
-![Deal With It](images/deal-with-it.gif?raw=true "Deal With It")
-
-And you can embed external images too:
-
-![Random](https://placeimg.com/480/240/any "Random")
 
 ## Video
 
