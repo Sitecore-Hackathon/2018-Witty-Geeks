@@ -1,8 +1,6 @@
 # Documentation
 
 
-
-
 ## Summary
 
 **Category:** SXA (Sitecore Experience Accelator)
@@ -31,45 +29,40 @@ Does your module rely on other Sitecore modules or frameworks?
 
 ## Installation
 
-Provide detailed instructions on how to install the module, and include screenshots where necessary.
+Use the steps below to install the module.
 
-1. Use the Sitecore Installation wizard to install the [package](#link-to-package)
-2. ???
-3. Profit
+1. Ensure above listed pre-requisites are installed.
+2. Use the Sitecore Installation wizard to install the [package](https://drive.google.com/open?id=1qUgFmeqrbuCKmoHgTchGwtjWoUS7HTU4 "package")
+3. Incase the above link does not work, use the DisplayStickyNotes-1.0.zip present inside the Documentation/ModulePackage folder in this repo.
+
 
 ## Configuration
 
-How do you configure your module once it is installed? Are there items that need to be updated with settings, or maybe config files need to have keys updated?
+1. Once the installation of the package is complete, make sure the following files are present in your local sitecore instance.
+    \App_Config\Include\WittyGeeks.Hackathon\Foundation\Foundation.SitecoreExtensions.config 
+    \bin\WittyGeeks.Hackathon.Foundation.SitecoreExtensions.dll
 
-Remember you are using Markdown, you can provide code samples too:
-
-```xml
-<?xml version="1.0"?>
-<!--
-  Purpose: Configuration settings for my hackathon module
--->
-<configuration xmlns:patch="http://www.sitecore.net/xmlconfig/">
-  <sitecore>
-    <settings>
-      <setting name="MyModule.Setting" value="Hackathon" />
-    </settings>
-  </sitecore>
-</configuration>
-```
 
 ## Usage
 
-Provide documentation  about your module, how do the users use your module, where are things located, what do icons mean, are there any secret shortcuts etc.
+Steps on how to use this module.
 
-Please include screenshots where necessary. You can add images to the `./images` folder and then link to them from your documentation:
+1. In Content Editor,go to home item located at "/sitecore/content/Hackathon/Witty Geeks/Home" or create a new page item under "/sitecore/content/Hackathon/Witty Geeks/Home".
+2. Open the item in Experience Editor.
+3. Drag and Drop a few SXA components on to the page via Toolbox.
+4. Use the Toolbox and Add sticky notes a few of these SXA components.
+5. Add text to the sticky notes and save your changes.
+6. Go to Content Editor and navigate to your page item.
+7. You will see a warning message above the quick info section notifying you that sticky notes were added to the SXA components of this item. See screenshot below.
 
-![Hackathon Logo](images/hackathon.png?raw=true "Hackathon Logo")
-![Verndale Logo](images/verndale.jpg?raw=true "Verndale Logo")
-
-
+![Content Editor Warning](images/ContentEditorWarning.png?raw=true "Content Editor Warning")
 
 ## Video
 
 Please provide a video highlighing your Hackathon module submission and provide a link to the video. Either a [direct link](https://www.youtube.com/watch?v=EpNhxW4pNKk) to the video, upload it to this documentation folder or maybe upload it to Youtube...
 
 [![Sitecore Hackathon Video Embedding Alt Text](https://img.youtube.com/vi/EpNhxW4pNKk/0.jpg)](https://www.youtube.com/watch?v=EpNhxW4pNKk)
+
+
+![Hackathon Logo](images/hackathon.png?raw=true "Hackathon Logo")
+![Verndale Logo](images/verndale.jpg?raw=true "Verndale Logo")
