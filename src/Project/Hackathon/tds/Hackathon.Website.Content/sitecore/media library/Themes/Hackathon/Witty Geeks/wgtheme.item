@@ -1,0 +1,52 @@
+----item----
+version: 1
+id: {AF6F25FF-12B8-48E4-BF2D-3FBAD5E69BE8}
+database: master
+path: /sitecore/media library/Themes/Hackathon/Witty Geeks/wgtheme
+parent: {E83D3FC5-7ACB-4BC1-9431-68F5DD63FFF4}
+name: wgtheme
+master: {00000000-0000-0000-0000-000000000000}
+template: {F7653F31-6F17-4DAA-9217-8E116BABC927}
+templatekey: Theme
+created: 20180303T053148Z
+
+----field----
+field: {384C2D3C-3E34-4493-9CB2-ADE68CAF0DA2}
+name: BaseLayout
+key: baselayout
+content-length: 233
+
+{05BFBCDF-4DA5-414A-8651-A221AB3F5F0F}|{9C1D66B3-6828-4759-9EEC-D68A7A2CE248}|{DF95EF99-4AFB-4E59-A341-2CC147120344}|{06401E9B-A3C5-4EB1-A8BA-A66658E157BC}|{1FF2E882-18C3-4FF3-8B1A-736ECA929C5F}|{D889F096-AFAB-4539-9E73-4DD3E05FCEC9}
+----version----
+language: en
+version: 1
+revision: 61081180-e978-4a4e-9080-b96eac08059d
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180303T053150Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+61081180-e978-4a4e-9080-b96eac08059d
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180303T053529Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

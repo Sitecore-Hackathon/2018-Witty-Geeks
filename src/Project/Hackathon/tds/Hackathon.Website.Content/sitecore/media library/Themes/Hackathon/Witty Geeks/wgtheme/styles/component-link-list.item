@@ -1,0 +1,175 @@
+----item----
+version: 1
+id: {7024AE1A-38E0-4D00-8910-1943FEC85866}
+database: master
+path: /sitecore/media library/Themes/Hackathon/Witty Geeks/wgtheme/styles/component-link-list
+parent: {FB2862FC-28CE-4581-9B8B-0FD0239E1743}
+name: component-link-list
+master: {00000000-0000-0000-0000-000000000000}
+template: {962B53C4-F93B-4DF9-9821-415C867B8903}
+templatekey: File
+created: 20180303T053509Z
+
+----field----
+field: {40E50ED9-BA07-4702-992E-A912738D32DC}
+name: Blob
+key: blob
+content-length: 3820
+
+QGNoYXJzZXQgIlVURi04IjsKLyogYnJlYWtwb2ludHMgKi8KLmxpbmstbGlzdCB7CiAgYmFja2dy
+b3VuZDogdHJhbnNwYXJlbnQ7Cn0KCi5saW5rLWxpc3QgaDEsIC5saW5rLWxpc3QgaDIsIC5saW5r
+LWxpc3QgaDMsIC5saW5rLWxpc3QgaDQsIC5saW5rLWxpc3QgaDUsIC5saW5rLWxpc3QgaDYgewog
+IGJvcmRlci1ib3R0b20td2lkdGg6IDFweDsKICBib3JkZXItc3R5bGU6IHNvbGlkOwp9CgoubGlu
+ay1saXN0ID4gLmNvbXBvbmVudC1jb250ZW50IHVsIHsKICBiYWNrZ3JvdW5kOiB0cmFuc3BhcmVu
+dDsKfQoKLmxpbmstbGlzdCA+IC5jb21wb25lbnQtY29udGVudCBsaSB7CiAgYmFja2dyb3VuZDog
+dHJhbnNwYXJlbnQ7CiAgZGlzcGxheTogYmxvY2s7Cn0KCi5saW5rLWxpc3QgPiAuY29tcG9uZW50
+LWNvbnRlbnQgbGkgYSB7CiAgZGlzcGxheTogaW5saW5lOwogIGNvbG9yOiAjNzQ3NDc0OwogIHBv
+c2l0aW9uOiByZWxhdGl2ZTsKICBwYWRkaW5nLWxlZnQ6IDEwcHg7CiAgZm9udC1zaXplOiAxM3B4
+OwogIHRleHQtZGVjb3JhdGlvbjogbm9uZTsKfQoKLmxpbmstbGlzdCA+IC5jb21wb25lbnQtY29u
+dGVudCBsaSBhOmJlZm9yZSB7CiAgZGlzcGxheTogaW5saW5lLWJsb2NrOwogIGZvbnQ6IG5vcm1h
+bCBub3JtYWwgbm9ybWFsIDE0cHgvMSBGb250QXdlc29tZTsKICBmb250LXNpemU6IGluaGVyaXQ7
+CiAgdGV4dC1yZW5kZXJpbmc6IGF1dG87CiAgLXdlYmtpdC1mb250LXNtb290aGluZzogYW50aWFs
+aWFzZWQ7CiAgLW1vei1vc3gtZm9udC1zbW9vdGhpbmc6IGdyYXlzY2FsZTsKICBjb250ZW50OiAi
+74GUIjsKICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgbGVmdDogMDsKICB0b3A6IDUwJTsKICAtd2Vi
+a2l0LXRyYW5zZm9ybTogdHJhbnNsYXRlWSgtNTAlKTsKICAtbXMtdHJhbnNmb3JtOiB0cmFuc2xh
+dGVZKC01MCUpOwogIHRyYW5zZm9ybTogdHJhbnNsYXRlWSgtNTAlKTsKICBmb250LXNpemU6IDEw
+cHg7Cn0KCi5saW5rLWxpc3QgPiAuY29tcG9uZW50LWNvbnRlbnQgbGkgYTpob3ZlciB7CiAgY29s
+b3I6ICM4Nzg3ODc7CiAgdGV4dC1kZWNvcmF0aW9uOiBub25lOwogIGJvcmRlci1ib3R0b206IDFw
+eCBzb2xpZCAjODlDNkNDOwp9CgoubGluay1saXN0IC5idXR0b24tZGVmYXVsdCwgLmxpbmstbGlz
+dCAuZGVmYXVsdCB7CiAgYm9yZGVyLXdpZHRoOiAxcHg7CiAgYm9yZGVyLXN0eWxlOiBzb2xpZDsK
+ICBmb250LXNpemU6IDEycHg7CiAgZm9udC1zaXplOiAxLjJyZW07CiAgZGlzcGxheTogaW5saW5l
+LWJsb2NrOwogIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7CiAgYm94LXNpemluZzogYm9yZGVyLWJv
+eDsKICBtYXJnaW46IDVweCAwOwogIHBhZGRpbmc6IDEwcHggMTVweDsKICB0ZXh0LWFsaWduOiBj
+ZW50ZXI7CiAgdGV4dC1kZWNvcmF0aW9uOiBub25lOwogIGJhY2tncm91bmQ6ICNmNmY2ZjY7CiAg
+Y29sb3I6ICM3NDc0NzQ7CiAgZm9udC13ZWlnaHQ6IGJvbGQ7Cn0KCi5saW5rLWxpc3QgLmJ1dHRv
+bi1kZWZhdWx0OmhvdmVyLCAubGluay1saXN0IC5kZWZhdWx0OmhvdmVyIHsKICBjb2xvcjogIzc0
+NzQ3NDsKICBiYWNrZ3JvdW5kOiAjZjdmN2Y3Owp9CgoubGluay1saXN0IC5idXR0b24tc3VjY2Vz
+cywgLmxpbmstbGlzdCAuc3VjY2VzcyB7CiAgZm9udC1zaXplOiAxMnB4OwogIGZvbnQtc2l6ZTog
+MS4ycmVtOwogIGJvcmRlci13aWR0aDogMXB4OwogIGJvcmRlci1zdHlsZTogc29saWQ7CiAgZGlz
+cGxheTogaW5saW5lLWJsb2NrOwogIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7CiAgYm94LXNpemlu
+ZzogYm9yZGVyLWJveDsKICBtYXJnaW46IDVweCAwOwogIHBhZGRpbmc6IDEwcHggMTVweDsKICB0
+ZXh0LWFsaWduOiBjZW50ZXI7CiAgdGV4dC1kZWNvcmF0aW9uOiBub25lOwogIGJhY2tncm91bmQ6
+ICNhMGNlNGU7CiAgY29sb3I6ICNmZmY7CiAgZm9udC13ZWlnaHQ6IGJvbGQ7Cn0KCi5saW5rLWxp
+c3QgLmJ1dHRvbi1zdWNjZXNzOmhvdmVyLCAubGluay1saXN0IC5zdWNjZXNzOmhvdmVyIHsKICBj
+b2xvcjogI2ZmZjsKICBiYWNrZ3JvdW5kOiAjOTJiZTQzOwp9CgoubGluay1saXN0IC5idXR0b24t
+d2FybmluZywgLmxpbmstbGlzdCAud2FybmluZyB7CiAgZm9udC1zaXplOiAxMnB4OwogIGZvbnQt
+c2l6ZTogMS4ycmVtOwogIGJvcmRlci13aWR0aDogMXB4OwogIGJvcmRlci1zdHlsZTogc29saWQ7
+CiAgZGlzcGxheTogaW5saW5lLWJsb2NrOwogIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7CiAgYm94
+LXNpemluZzogYm9yZGVyLWJveDsKICBtYXJnaW46IDVweCAwOwogIHBhZGRpbmc6IDEwcHggMTVw
+eDsKICB0ZXh0LWFsaWduOiBjZW50ZXI7CiAgdGV4dC1kZWNvcmF0aW9uOiBub25lOwogIGJhY2tn
+cm91bmQ6ICNiYzQ1MjY7CiAgY29sb3I6ICNmZmY7CiAgZm9udC13ZWlnaHQ6IGJvbGQ7Cn0KCi5s
+aW5rLWxpc3QgLmJ1dHRvbi13YXJuaW5nOmhvdmVyLCAubGluay1saXN0IC53YXJuaW5nOmhvdmVy
+IHsKICBjb2xvcjogI2ZmZjsKICBiYWNrZ3JvdW5kOiAjYzM0ZTMwOwp9CgovKiBicmVha3BvaW50
+cyAqLwoubGluay1saXN0Lmxpc3QtdmVydGljYWwgaDMgewogIGJhY2tncm91bmQ6ICNGRkZGRkY7
+CiAgd2lkdGg6IDEwMCU7CiAgZGlzcGxheTogaW5saW5lLWJsb2NrOwogIHBhZGRpbmc6IDNweCA1
+cHg7CiAgYm9yZGVyLXdpZHRoOiAxcHg7CiAgYm9yZGVyLXN0eWxlOiBzb2xpZDsKfQoKLmxpbmst
+bGlzdC5saXN0LXZlcnRpY2FsIGEgewogIGJvcmRlcjogbm9uZTsKfQoKLmxpbmstbGlzdC5saXN0
+LXZlcnRpY2FsIGxpIHsKICBkaXNwbGF5OiBibG9jazsKICBtYXJnaW4tbGVmdDogMjBweDsKfQo=
+----field----
+field: {C06867FE-9A43-4C7D-B739-48780492D06F}
+name: Extension
+key: extension
+content-length: 3
+
+css
+----field----
+field: {6F47A0A5-9C94-4B48-ABEB-42D38DEF6054}
+name: Mime Type
+key: mime type
+content-length: 8
+
+text/css
+----field----
+field: {6954B7C7-2487-423F-8600-436CB3B6DC0E}
+name: Size
+key: size
+content-length: 4
+
+2792
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 61
+
+-/media/1F0C6D80CDBF4E30B779F2BC28E1028E.ashx?h=16&thn=1&w=16
+----version----
+language: en
+version: 1
+revision: 1a68948a-852f-4e33-a26c-972c1eb3249b
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170414T150107Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+1a68948a-852f-4e33-a26c-972c1eb3249b
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180103T163204Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn
+----version----
+language: en
+version: 2
+revision: 1a68948a-852f-4e33-a26c-972c1eb3249b
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170414T150107Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+1a68948a-852f-4e33-a26c-972c1eb3249b
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180103T163204Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

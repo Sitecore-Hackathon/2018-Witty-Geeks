@@ -1,0 +1,142 @@
+----item----
+version: 1
+id: {076B34FA-1D9F-4248-AC91-AE91B6F5E3B8}
+database: master
+path: /sitecore/media library/Themes/Hackathon/Witty Geeks/wgtheme/styles/component-pagination
+parent: {FB2862FC-28CE-4581-9B8B-0FD0239E1743}
+name: component-pagination
+master: {00000000-0000-0000-0000-000000000000}
+template: {962B53C4-F93B-4DF9-9821-415C867B8903}
+templatekey: File
+created: 20180303T053512Z
+
+----field----
+field: {40E50ED9-BA07-4702-992E-A912738D32DC}
+name: Blob
+key: blob
+content-length: 1190
+
+LyogYnJlYWtwb2ludHMgKi8KLmxpc3QtcGFnaW5hdGlvbiB7CiAgYmFja2dyb3VuZDogdHJhbnNw
+YXJlbnQ7Cn0KCi5saXN0LXBhZ2luYXRpb24gbmF2ID4gc3BhbiwgLmxpc3QtcGFnaW5hdGlvbiBu
+YXYgPiBhIHsKICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7CiAgbWFyZ2luOiAycHggMXB4IDJweCAw
+OwogIHBhZGRpbmc6IDRweCA4cHg7CiAgYm9yZGVyLXdpZHRoOiAxcHg7CiAgYm9yZGVyLXN0eWxl
+OiBzb2xpZDsKICBmb250LXNpemU6IDEzcHg7CiAgZm9udC13ZWlnaHQ6IGJvbGQ7Cn0KCi5saXN0
+LXBhZ2luYXRpb24gbmF2ID4gc3Bhbjpob3ZlciwgLmxpc3QtcGFnaW5hdGlvbiBuYXYgPiBhOmhv
+dmVyIHsKICBjb2xvcjogIzg5QzZDQzsKICBiYWNrZ3JvdW5kOiAjZjZmNmY2OwogIHRleHQtZGVj
+b3JhdGlvbjogbm9uZTsKICBib3JkZXItd2lkdGg6IDFweDsKICBib3JkZXItc3R5bGU6IHNvbGlk
+Owp9CgoubGlzdC1wYWdpbmF0aW9uIG5hdiA+IHNwYW46Zm9jdXMsIC5saXN0LXBhZ2luYXRpb24g
+bmF2ID4gYTpmb2N1cyB7CiAgdGV4dC1kZWNvcmF0aW9uOiBub25lOwogIGNvbG9yOiAjODlDNkND
+Owp9CgoubGlzdC1wYWdpbmF0aW9uIG5hdiA+IHNwYW4uYWN0aXZlIHsKICBiYWNrZ3JvdW5kOiAj
+ZjZmNmY2OwogIGNvbG9yOiAjODlDNkNDOwogIGJvcmRlci13aWR0aDogMXB4OwogIGJvcmRlci1z
+dHlsZTogc29saWQ7Cn0KCi5saXN0LXBhZ2luYXRpb24gbmF2ID4gc3Bhbi5pbmFjdGl2ZSB7CiAg
+Y29sb3I6ICNhYWE7Cn0KCi5saXN0LXBhZ2luYXRpb24gbmF2ID4gc3Bhbi5pbmFjdGl2ZTpob3Zl
+ciB7CiAgYmFja2dyb3VuZDogbm9uZTsKICBib3JkZXItd2lkdGg6IDFweDsKICBib3JkZXItc3R5
+bGU6IHNvbGlkOwp9Cg==
+----field----
+field: {C06867FE-9A43-4C7D-B739-48780492D06F}
+name: Extension
+key: extension
+content-length: 3
+
+css
+----field----
+field: {6F47A0A5-9C94-4B48-ABEB-42D38DEF6054}
+name: Mime Type
+key: mime type
+content-length: 8
+
+text/css
+----field----
+field: {6954B7C7-2487-423F-8600-436CB3B6DC0E}
+name: Size
+key: size
+content-length: 3
+
+868
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 61
+
+-/media/99ACFC4BDAA74FFEA1C56833AB15D96E.ashx?h=16&thn=1&w=16
+----version----
+language: en
+version: 1
+revision: c0f4f292-551f-4fb3-99e1-9385cdb80370
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170414T150111Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+c0f4f292-551f-4fb3-99e1-9385cdb80370
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180103T163203Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn
+----version----
+language: en
+version: 2
+revision: c0f4f292-551f-4fb3-99e1-9385cdb80370
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170414T150111Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+c0f4f292-551f-4fb3-99e1-9385cdb80370
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180103T163203Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

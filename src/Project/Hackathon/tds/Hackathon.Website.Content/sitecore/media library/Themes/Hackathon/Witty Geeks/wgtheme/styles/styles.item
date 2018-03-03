@@ -1,0 +1,197 @@
+----item----
+version: 1
+id: {499F38AA-E173-47B7-B0C5-6923EEA66585}
+database: master
+path: /sitecore/media library/Themes/Hackathon/Witty Geeks/wgtheme/styles/styles
+parent: {FB2862FC-28CE-4581-9B8B-0FD0239E1743}
+name: styles
+master: {00000000-0000-0000-0000-000000000000}
+template: {962B53C4-F93B-4DF9-9821-415C867B8903}
+templatekey: File
+created: 20180303T053519Z
+
+----field----
+field: {40E50ED9-BA07-4702-992E-A912738D32DC}
+name: Blob
+key: blob
+content-length: 5520
+
+LyogYnJlYWtwb2ludHMgKi8KLmJveGVkIHsKICBib3gtc2l6aW5nOiBib3JkZXItYm94OwogIG1h
+cmdpbjogMjBweCAwOwp9CgpAbWVkaWEgb25seSBzY3JlZW4gYW5kIChtaW4td2lkdGg6IDM4MXB4
+KSBhbmQgKG1heC13aWR0aDogOTU5cHgpIHsKICAuYm94ZWQgewogICAgcGFkZGluZzogMTBweDsK
+ICB9Cn0KCkBtZWRpYSBvbmx5IHNjcmVlbiBhbmQgKG1heC13aWR0aDogMzgwcHgpIHsKICAuYm94
+ZWQgewogICAgcGFkZGluZzogMTBweDsKICB9Cn0KCi5ib3hlZCA+IGRpdiB7CiAgbWF4LXdpZHRo
+OiA5NjBweDsKICBtYXJnaW46IDAgYXV0byAhaW1wb3J0YW50Owp9CgouaGlnaGxpZ2h0ZWQtdG9w
+IHsKICBiYWNrZ3JvdW5kOiAjZmZmZmZmOwogIGJvcmRlci10b3Atd2lkdGg6IDNweDsKICBib3Jk
+ZXItdG9wLWNvbG9yOiAjMTU5MDljOwogIGJvcmRlci1zdHlsZTogc29saWQ7CiAgcGFkZGluZzog
+MjVweDsKICBtYXJnaW46IDA7Cn0KCi5oaWdobGlnaHRlZC10b3AgaDEsIC5oaWdobGlnaHRlZC10
+b3AgaDIsIC5oaWdobGlnaHRlZC10b3AgaDMsIC5oaWdobGlnaHRlZC10b3AgaDQgewogIG1hcmdp
+bjogMCAwIDEwcHggMDsKfQoKLmhpZ2hsaWdodGVkLWJvdHRvbSB7CiAgYmFja2dyb3VuZDogI2Zm
+ZmZmZjsKICBib3JkZXItYm90dG9tLXdpZHRoOiAzcHg7CiAgYm9yZGVyLWJvdHRvbS1jb2xvcjog
+IzE1OTA5YzsKICBib3JkZXItc3R5bGU6IHNvbGlkOwogIHBhZGRpbmc6IDI1cHg7CiAgbWFyZ2lu
+OiAwOwp9CgouaGlnaGxpZ2h0ZWQtYm90dG9tIGgxLCAuaGlnaGxpZ2h0ZWQtYm90dG9tIGgyLCAu
+aGlnaGxpZ2h0ZWQtYm90dG9tIGgzLCAuaGlnaGxpZ2h0ZWQtYm90dG9tIGg0IHsKICBtYXJnaW46
+IDAgMCAxMHB4IDA7Cn0KCi5oaWdobGlnaHRlZC1sZWZ0IHsKICBiYWNrZ3JvdW5kOiAjZmZmZmZm
+OwogIGJvcmRlci1sZWZ0LXdpZHRoOiAzcHg7CiAgYm9yZGVyLWxlZnQtY29sb3I6ICMxNTkwOWM7
+CiAgYm9yZGVyLXN0eWxlOiBzb2xpZDsKICBwYWRkaW5nOiAyNXB4OwogIG1hcmdpbjogMDsKfQoK
+LmhpZ2hsaWdodGVkLWxlZnQgaDEsIC5oaWdobGlnaHRlZC1sZWZ0IGgyLCAuaGlnaGxpZ2h0ZWQt
+bGVmdCBoMywgLmhpZ2hsaWdodGVkLWxlZnQgaDQgewogIG1hcmdpbjogMCAwIDEwcHggMDsKfQoK
+LmhpZ2hsaWdodGVkLXJpZ2h0IHsKICBiYWNrZ3JvdW5kOiAjZmZmZmZmOwogIGJvcmRlci1yaWdo
+dC13aWR0aDogM3B4OwogIGJvcmRlci1yaWdodC1jb2xvcjogIzE1OTA5YzsKICBib3JkZXItc3R5
+bGU6IHNvbGlkOwogIHBhZGRpbmc6IDI1cHg7CiAgbWFyZ2luOiAwOwp9CgouaGlnaGxpZ2h0ZWQt
+cmlnaHQgaDEsIC5oaWdobGlnaHRlZC1yaWdodCBoMiwgLmhpZ2hsaWdodGVkLXJpZ2h0IGgzLCAu
+aGlnaGxpZ2h0ZWQtcmlnaHQgaDQgewogIG1hcmdpbjogMCAwIDEwcHggMDsKfQoKLmluZGVudCB7
+CiAgbWFyZ2luOiAwIDQwcHg7Cn0KCi5pbmRlbnQtdG9wIHsKICBtYXJnaW4tdG9wOiAyMHB4Owp9
+CgouaW5kZW50LWJvdHRvbSB7CiAgbWFyZ2luLWJvdHRvbTogMjBweDsKfQoKLyogYnJlYWtwb2lu
+dHMgKi8KLmxpbmstYnV0dG9uIC5idXR0b24tZGVmYXVsdCwgLmxpbmstYnV0dG9uIC5kZWZhdWx0
+IHsKICBib3JkZXItd2lkdGg6IDFweDsKICBib3JkZXItc3R5bGU6IHNvbGlkOwogIGZvbnQtc2l6
+ZTogMTJweDsKICBmb250LXNpemU6IDEuMnJlbTsKICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7CiAg
+dmVydGljYWwtYWxpZ246IG1pZGRsZTsKICBib3gtc2l6aW5nOiBib3JkZXItYm94OwogIG1hcmdp
+bjogNXB4IDA7CiAgcGFkZGluZzogMTBweCAxNXB4OwogIHRleHQtYWxpZ246IGNlbnRlcjsKICB0
+ZXh0LWRlY29yYXRpb246IG5vbmU7CiAgYmFja2dyb3VuZDogI2Y2ZjZmNjsKICBjb2xvcjogIzc0
+NzQ3NDsKICBmb250LXdlaWdodDogYm9sZDsKfQoKLmxpbmstYnV0dG9uIC5idXR0b24tZGVmYXVs
+dDpob3ZlciwgLmxpbmstYnV0dG9uIC5kZWZhdWx0OmhvdmVyIHsKICBjb2xvcjogIzc0NzQ3NDsK
+ICBiYWNrZ3JvdW5kOiAjZjdmN2Y3Owp9CgoubGluay1idXR0b24gLmJ1dHRvbi1zdWNjZXNzLCAu
+bGluay1idXR0b24gLnN1Y2Nlc3MgewogIGZvbnQtc2l6ZTogMTJweDsKICBmb250LXNpemU6IDEu
+MnJlbTsKICBib3JkZXItd2lkdGg6IDFweDsKICBib3JkZXItc3R5bGU6IHNvbGlkOwogIGRpc3Bs
+YXk6IGlubGluZS1ibG9jazsKICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwogIGJveC1zaXppbmc6
+IGJvcmRlci1ib3g7CiAgbWFyZ2luOiA1cHggMDsKICBwYWRkaW5nOiAxMHB4IDE1cHg7CiAgdGV4
+dC1hbGlnbjogY2VudGVyOwogIHRleHQtZGVjb3JhdGlvbjogbm9uZTsKICBiYWNrZ3JvdW5kOiAj
+YTBjZTRlOwogIGNvbG9yOiAjZmZmOwogIGZvbnQtd2VpZ2h0OiBib2xkOwp9CgoubGluay1idXR0
+b24gLmJ1dHRvbi1zdWNjZXNzOmhvdmVyLCAubGluay1idXR0b24gLnN1Y2Nlc3M6aG92ZXIgewog
+IGNvbG9yOiAjZmZmOwogIGJhY2tncm91bmQ6ICM5MmJlNDM7Cn0KCi5saW5rLWJ1dHRvbiAuYnV0
+dG9uLXdhcm5pbmcsIC5saW5rLWJ1dHRvbiAud2FybmluZyB7CiAgZm9udC1zaXplOiAxMnB4Owog
+IGZvbnQtc2l6ZTogMS4ycmVtOwogIGJvcmRlci13aWR0aDogMXB4OwogIGJvcmRlci1zdHlsZTog
+c29saWQ7CiAgZGlzcGxheTogaW5saW5lLWJsb2NrOwogIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7
+CiAgYm94LXNpemluZzogYm9yZGVyLWJveDsKICBtYXJnaW46IDVweCAwOwogIHBhZGRpbmc6IDEw
+cHggMTVweDsKICB0ZXh0LWFsaWduOiBjZW50ZXI7CiAgdGV4dC1kZWNvcmF0aW9uOiBub25lOwog
+IGJhY2tncm91bmQ6ICNiYzQ1MjY7CiAgY29sb3I6ICNmZmY7CiAgZm9udC13ZWlnaHQ6IGJvbGQ7
+Cn0KCi5saW5rLWJ1dHRvbiAuYnV0dG9uLXdhcm5pbmc6aG92ZXIsIC5saW5rLWJ1dHRvbiAud2Fy
+bmluZzpob3ZlciB7CiAgY29sb3I6ICNmZmY7CiAgYmFja2dyb3VuZDogI2MzNGUzMDsKfQoKLnBy
+b21vdGVkLWJveCB7CiAgYm9yZGVyOiBub25lICFpbXBvcnRhbnQ7Cn0KCi5wb3NpdGlvbi1sZWZ0
+LCAucG9zaXRpb24tbGVmdCAqIHsKICB0ZXh0LWFsaWduOiBsZWZ0ICFpbXBvcnRhbnQ7Cn0KCi5w
+b3NpdGlvbi1yaWdodCwgLnBvc2l0aW9uLXJpZ2h0ICogewogIHRleHQtYWxpZ246IHJpZ2h0ICFp
+bXBvcnRhbnQ7Cn0KCi5wb3NpdGlvbi1jZW50ZXIsIC5wb3NpdGlvbi1jZW50ZXIgKiB7CiAgdGV4
+dC1hbGlnbjogY2VudGVyICFpbXBvcnRhbnQ7Cn0KCi8qIGJyZWFrcG9pbnRzICovCi5jb3Zlci1i
+YWNrZ3JvdW5kID4gLmNvbXBvbmVudC1jb250ZW50LCAuZml4LWJhY2tncm91bmQgPiAuY29tcG9u
+ZW50LWNvbnRlbnQsIC5wYXJhbGxheC1iYWNrZ3JvdW5kID4gLmNvbXBvbmVudC1jb250ZW50IHsK
+ICBiYWNrZ3JvdW5kLXJlcGVhdDogbm8tcmVwZWF0OwogIGJhY2tncm91bmQtc2l6ZTogY292ZXI7
+Cn0KCi5maXgtYmFja2dyb3VuZCA+IC5jb21wb25lbnQtY29udGVudCB7CiAgYmFja2dyb3VuZC1w
+b3NpdGlvbjogbGVmdCB0b3A7CiAgYmFja2dyb3VuZC1hdHRhY2htZW50OiBmaXhlZDsKICBtaW4t
+aGVpZ2h0OiAyNDBweDsKfQoKLnBhcmFsbGF4LWJhY2tncm91bmQgPiAuY29tcG9uZW50LWNvbnRl
+bnQgewogIGJhY2tncm91bmQtcG9zaXRpb246IDUwJSAwOwogIGJhY2tncm91bmQtYXR0YWNobWVu
+dDogZml4ZWQ7CiAgbWluLWhlaWdodDogMjQwcHg7Cn0KCkBtZWRpYSBvbmx5IHNjcmVlbiBhbmQg
+KG1heC13aWR0aDogNzg2cHgpIHsKICAucGFyYWxsYXgtYmFja2dyb3VuZCA+IC5jb21wb25lbnQt
+Y29udGVudCB7CiAgICBiYWNrZ3JvdW5kLWF0dGFjaG1lbnQ6IHNjcm9sbDsKICB9Cn0KCi5jb250
+YWluZXItZ3JheS1iYWNrZ3JvdW5kIHsKICBiYWNrZ3JvdW5kOiAjZjdmN2Y3Owp9CgouY29udGFp
+bmVyLWNsZWFuLWJhY2tncm91bmQgewogIGJhY2tncm91bmQ6ICNGRkZGRkY7Cn0KCi5jb250YWlu
+ZXItZGFyay1iYWNrZ3JvdW5kIHsKICBiYWNrZ3JvdW5kOiAjM2QzZDNkOwp9CgouY29udGFpbmVy
+LWNvbG9yLWJhY2tncm91bmQgewogIGJhY2tncm91bmQ6ICM4OUM2Q0M7Cn0K
+----field----
+field: {C06867FE-9A43-4C7D-B739-48780492D06F}
+name: Extension
+key: extension
+content-length: 3
+
+css
+----field----
+field: {6F47A0A5-9C94-4B48-ABEB-42D38DEF6054}
+name: Mime Type
+key: mime type
+content-length: 8
+
+text/css
+----field----
+field: {6954B7C7-2487-423F-8600-436CB3B6DC0E}
+name: Size
+key: size
+content-length: 4
+
+4035
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 61
+
+-/media/532A0EF4210A4DF5B767BA89806203CC.ashx?h=16&thn=1&w=16
+----version----
+language: en
+version: 1
+revision: a770dc33-5bfd-4c8f-9b5b-e1f016976a63
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170414T150105Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+a770dc33-5bfd-4c8f-9b5b-e1f016976a63
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180103T163204Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn
+----version----
+language: en
+version: 2
+revision: a770dc33-5bfd-4c8f-9b5b-e1f016976a63
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170414T150105Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+a770dc33-5bfd-4c8f-9b5b-e1f016976a63
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180103T163204Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn
