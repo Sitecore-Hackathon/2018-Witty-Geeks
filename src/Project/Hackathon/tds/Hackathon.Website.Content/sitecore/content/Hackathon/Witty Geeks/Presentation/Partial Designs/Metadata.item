@@ -1,0 +1,87 @@
+----item----
+version: 1
+id: {6B3C050E-1DE5-4996-AAF3-999D86FFE0D3}
+database: master
+path: /sitecore/content/Hackathon/Witty Geeks/Presentation/Partial Designs/Metadata
+parent: {37EC6ECE-71A3-4196-B5C1-7612B918235D}
+name: Metadata
+master: {B90549B5-C997-4D6B-B102-C9AB82528974}
+template: {740AB898-13D5-416D-B9ED-AC170D50DDC3}
+templatekey: Metadata Partial Design
+created: 20180303T032130Z
+
+----field----
+field: {55FAAE90-3BBA-4F7F-96FE-13C3F40055FF}
+name: Signature
+key: signature
+content-length: 23
+
+metadata-partial-design
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 38
+
+{C7A35BB6-7B78-49A5-A0CE-23A6DFA3E00E}
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 1345
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{F95D196B-E15E-44C6-B789-0C2D9BB9FCCB}" p:before="*" s:id="{3A91FC31-BA4C-4BC7-B6E4-29B4BB768736}" s:ph="body-bottom" /><r uid="{B4438A79-EBB1-448A-86B3-3C3CE00825FB}" p:after="r[@uid='{F95D196B-E15E-44C6-B789-0C2D9BB9FCCB}']" s:id="{3EA2AA92-8885-4C28-9C5D-37E94721A481}" s:ph="head" /><r uid="{36A27F75-C05E-44ED-9D1D-82272E7CE8F7}" p:after="r[@uid='{B4438A79-EBB1-448A-86B3-3C3CE00825FB}']" s:id="{B9EE29F7-2CCE-4172-9E51-D65DB818E3FA}" s:ph="head" /><r uid="{B762CEC2-DE3D-4E6A-9479-B2E6E7377031}" p:after="r[@uid='{36A27F75-C05E-44ED-9D1D-82272E7CE8F7}']" s:id="{E3E3F484-0C27-42CC-9F36-E2D33430C8CD}" s:ph="head" /><r uid="{989B9274-6A4C-4789-8B3E-55801C79742B}" p:after="r[@uid='{B762CEC2-DE3D-4E6A-9479-B2E6E7377031}']" s:id="{B07712AD-28B9-4B93-A524-D8BD29CA9D8D}" s:ph="head" /><r uid="{14BA1004-8EB6-47D0-96E8-ACB3AB22F57A}" p:after="r[@uid='{989B9274-6A4C-4789-8B3E-55801C79742B}']" s:id="{CA9D504B-B04F-4327-BCEB-A789BA5C3865}" s:ph="head" /><r uid="{57DD171B-96CB-4440-BD57-001998ECFFF4}" p:after="r[@uid='{14BA1004-8EB6-47D0-96E8-ACB3AB22F57A}']" s:id="{0A6935A8-3AC2-4977-8677-1F4360B212EE}" s:ph="head" /><r uid="{4C88DA9C-251E-4D9B-8971-3E0BF9DD433D}" p:after="*[1=2]" s:id="{3B138D20-BB25-449D-898A-670997743402}" s:ph="head" /></d></r>
+----version----
+language: en
+version: 1
+revision: 07c0b848-5342-4bfa-bd22-218c292937b1
+
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 8
+
+Metadata
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 22
+
+sitecore\virtualssuser
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180303T032143Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 22
+
+sitecore\virtualssuser
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+07c0b848-5342-4bfa-bd22-218c292937b1
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180303T032740Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 22
+
+sitecore\virtualssuser

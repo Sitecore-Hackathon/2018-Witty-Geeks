@@ -1,0 +1,66 @@
+----item----
+version: 1
+id: {0B558C94-B4A6-4656-8EA1-21E40131FC27}
+database: master
+path: /sitecore/templates/Project/Hackathon/Page Design Folder/__Standard Values
+parent: {76D39FD9-C888-426B-A0A6-2CFCCE9C52A5}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {76D39FD9-C888-426B-A0A6-2CFCCE9C52A5}
+templatekey: Page Design Folder
+created: 20180303T031751Z
+
+----field----
+field: {1172F251-DAD4-4EFB-A329-0C63500E4F1E}
+name: __Masters
+key: __masters
+content-length: 78
+
+{76D39FD9-C888-426B-A0A6-2CFCCE9C52A5}|{90B94540-6853-4BD2-B2EF-91AA7FCBD915}|
+----version----
+language: en
+version: 1
+revision: 039599c2-6ce1-4bb6-9e2f-4c1a2143f2e0
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 22
+
+sitecore\virtualssuser
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180303T031751Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 22
+
+sitecore\virtualssuser
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+039599c2-6ce1-4bb6-9e2f-4c1a2143f2e0
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180303T031817Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 22
+
+sitecore\virtualssuser

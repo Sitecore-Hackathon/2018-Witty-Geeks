@@ -1,0 +1,80 @@
+----item----
+version: 1
+id: {3E28E002-2BEB-4D20-A19B-780843AC034F}
+database: master
+path: /sitecore/content/Hackathon/Witty Geeks/Home
+parent: {F9BDBFB4-642C-4DE1-A2B8-202659E8349D}
+name: Home
+master: {B90549B5-C997-4D6B-B102-C9AB82528974}
+template: {23B77F35-2EA5-40A9-9BF6-5D728B5012D0}
+templatekey: Home
+created: 20180303T032122Z
+
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 38
+
+{92EB9EFB-88D4-4089-82BE-AAD92D4FA24E}
+----version----
+language: en
+version: 1
+revision: 9cde05fb-bef6-4420-b77f-074ffae2d8b9
+
+----field----
+field: {5AEE1DBB-463B-45B9-853C-4F6B20AABDA2}
+name: Title
+key: title
+content-length: 11
+
+Witty Geeks
+----field----
+field: {4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}
+name: NavigationTitle
+key: navigationtitle
+content-length: 11
+
+Witty Geeks
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 22
+
+sitecore\virtualssuser
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180303T032133Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 22
+
+sitecore\virtualssuser
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+9cde05fb-bef6-4420-b77f-074ffae2d8b9
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180303T032214Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 22
+
+sitecore\virtualssuser

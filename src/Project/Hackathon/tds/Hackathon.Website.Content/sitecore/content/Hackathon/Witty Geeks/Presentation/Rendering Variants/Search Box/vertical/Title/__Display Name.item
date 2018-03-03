@@ -1,0 +1,59 @@
+----item----
+version: 1
+id: {AA173157-CD33-4543-B194-3EC50BCBF4DA}
+database: master
+path: /sitecore/content/Hackathon/Witty Geeks/Presentation/Rendering Variants/Search Box/vertical/Title/__Display Name
+parent: {5A02FEAB-CA16-4091-8C78-4FD57DDAA096}
+name: __Display Name
+master: {0D360BBD-4FAE-4863-88B9-AE5BE82BE6F0}
+template: {FCD285DA-9AB2-4C8D-B185-5A7487A9BA1B}
+templatekey: VariantField
+created: 20180303T032759Z
+
+----field----
+field: {4753764C-C05A-4623-841B-97F85135241C}
+name: FieldName
+key: fieldname
+content-length: 14
+
+__Display name
+----field----
+field: {DCB05E5E-7151-4226-A3B0-108C5E2F05B5}
+name: IsLink
+key: islink
+content-length: 1
+
+1
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 38
+
+{BDDB90D1-DD15-44F3-B6EC-D97D01C83558}
+----version----
+language: en
+version: 1
+revision: 
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 22
+
+sitecore\virtualssuser
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20180303T032800:636556444802420613Z
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180303T032800Z

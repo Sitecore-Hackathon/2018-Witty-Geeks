@@ -1,0 +1,80 @@
+----item----
+version: 1
+id: {269ED15B-0392-4B89-B74E-A17627D11F06}
+database: master
+path: /sitecore/content/Hackathon/Witty Geeks/Presentation/Page Designs
+parent: {BBE6514B-9238-4956-8E30-AF44F2BFD1F6}
+name: Page Designs
+master: {B90549B5-C997-4D6B-B102-C9AB82528974}
+template: {DB8FEDC4-BA0D-4F8E-A419-82137648C2B8}
+templatekey: Page Designs
+created: 20180303T032127Z
+
+----field----
+field: {BA1F60D6-3DEB-40CC-BB61-EEC772279EE1}
+name: TemplatesMapping
+key: templatesmapping
+content-length: 185
+
+%7b8F38BD63-B9CE-40EE-8F90-6EF9FB753CCC%7d%3d%257B43C08579-A353-4AD8-80D3-5BD66AD5A043%257D%26%7b23B77F35-2EA5-40A9-9BF6-5D728B5012D0%7d%3d%257B43C08579-A353-4AD8-80D3-5BD66AD5A043%257D
+----field----
+field: {C0C88E34-D7E6-46A0-B84F-B0A432D11642}
+name: Theme
+key: theme
+content-length: 91
+
+%7bFE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3%7d%3d%257B3F46272C-F3B8-4913-8C00-3816B436A4D3%257D
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 38
+
+{5D5CE43E-D5C6-4C53-89BC-36285DDE8EC9}
+----version----
+language: en
+version: 1
+revision: b6a3f385-19bc-412f-af1f-c573dceb8c15
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 22
+
+sitecore\virtualssuser
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180303T032134Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 22
+
+sitecore\virtualssuser
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+b6a3f385-19bc-412f-af1f-c573dceb8c15
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180303T032806Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 22
+
+sitecore\virtualssuser

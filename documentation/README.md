@@ -22,8 +22,9 @@ Does your module rely on other Sitecore modules or frameworks?
 
 - Ensure you have Sitecore 9.1 installed (All pre-requisites needed for 9.1 should be installed as well)
   [Sitecore 9.1](https://doc.sitecore.net/sitecore_experience_accelerator/setting_up_and_configuring "Sitecore 9.1")
-- Ensure you have Sitecore Experience Accelerator Version 1.6 installed. 
+- Ensure you have Sitecore Experience Accelerator Version 1.6 installed. Also ensure to install any dependencies for the accelator to be set up
   [Sitecore Experience Accelerator](https://doc.sitecore.net/sitecore_experience_accelerator/setting_up_and_configuring "Set up SXA")
+  [Sitecore POwershell Extensions](https://marketplace.sitecore.net/Modules/Sitecore_PowerShell_console.aspx "Set up PowerShell Extensions")
 
 ## Installation
 
