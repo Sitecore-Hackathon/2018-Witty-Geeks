@@ -20,6 +20,9 @@
     <ManageRoles>False</ManageRoles>
     <SitecoreDatabase>master</SitecoreDatabase>
     <AssemblyStatus>Exclude</AssemblyStatus>
+    <SourceWebVirtualPath>/Project.Hackathon.Website.csproj</SourceWebVirtualPath>
+    <SourceWebProject>{978f9486-df07-4377-87bc-deec16489b5e}|src\Project\Hackathon\Project.Hackathon.Website\Project.Hackathon.Website.csproj</SourceWebProject>
+    <SourceWebPhysicalPath>..\..\code\Project.Hackathon.Website</SourceWebPhysicalPath>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -3804,18 +3807,6 @@
       <ChildItemSynchronization>KeepAllChildrenSynchronized</ChildItemSynchronization>
       <ItemDeployment>AlwaysUpdate</ItemDeployment>
     </SitecoreItem>
-  </ItemGroup>
-  <ItemGroup>
-    <SourceWebProjects Include="{978f9486-df07-4377-87bc-deec16489b5e}|src\Project\Hackathon\code\Project.Hackathon.Website\Project.Hackathon.Website.csproj">
-      <SourceWebPhysicalPath>..\..\code\Project.Hackathon.Website</SourceWebPhysicalPath>
-      <SourceWebVirtualPath>/Project.Hackathon.Website.csproj</SourceWebVirtualPath>
-      <SourceWebProjectId>978f9486-df07-4377-87bc-deec16489b5e</SourceWebProjectId>
-    </SourceWebProjects>
-    <SourceWebProjects Include="{978f9486-df07-4377-87bc-deec16489b5e}|src\Project\Hackathon\Project.Hackathon.Website\Project.Hackathon.Website.csproj">
-      <SourceWebPhysicalPath>..\..\code\Project.Hackathon.Website</SourceWebPhysicalPath>
-      <SourceWebVirtualPath>/Project.Hackathon.Website.csproj</SourceWebVirtualPath>
-      <SourceWebProjectId>978f9486-df07-4377-87bc-deec16489b5e</SourceWebProjectId>
-    </SourceWebProjects>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\code\Project.Hackathon.Website\Project.Hackathon.Website.csproj">
