@@ -60,9 +60,9 @@ Below is the link to the video explaining details of the module.
 
 ## Future Enahncements
 
-1.Narrow the sticky note to be more specific to a user by enabling tagging to specific user(s). 
-2.Add links in the warning message to open the Experience Editor view of the item.
-3.Enhancements to the warning message view.
+1. Narrow the sticky note to be more specific to a user by enabling tagging to specific user(s). 
+2. Add links in the warning message to open the Experience Editor view of the item.
+3. Enhancements to the warning message view.
 
 ![Hackathon Logo](images/hackathon.png?raw=true "Hackathon Logo")
 ![Verndale Logo](images/verndale.jpg?raw=true "Verndale Logo")
