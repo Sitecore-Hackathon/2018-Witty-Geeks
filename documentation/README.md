@@ -4,7 +4,7 @@
 
 **Category:** SXA (Sitecore Experience Accelator)
 
-⋅⋅The main goal of SXA is to speed up production of websites which means we are looking at multiple content authors. 
+The main goal of SXA is to speed up production of websites which means we are looking at multiple content authors. 
 These authors might be working on same modules/pages/components and will need a way to properly communicate and connect with each other. 
 We took inspiration from an existing feature provided by SXA called sticky notes, but, took it further. 
 The current behavior of Sticky notes is such that you would have to go to Experience Editor to view them. 
@@ -14,10 +14,14 @@ This would make sure the message being conveyed by the sticky notes is just not 
 ## Pre-requisites
 
 - Ensure you have Sitecore 9.1 installed (All pre-requisites needed for 9.1 should be installed as well)
+
   [Sitecore 9.1](https://doc.sitecore.net/sitecore_experience_accelerator/setting_up_and_configuring "Sitecore 9.1")
+
 - Ensure you have Sitecore Experience Accelerator Version 1.6 installed. Also ensure to install any dependencies for the accelator to be set up
-  ⋅⋅*[Sitecore Experience Accelerator](https://doc.sitecore.net/sitecore_experience_accelerator/setting_up_and_configuring "Set up SXA")
-  ⋅⋅*[Sitecore POwershell Extensions](https://marketplace.sitecore.net/Modules/Sitecore_PowerShell_console.aspx "Set up PowerShell Extensions")
+
+  [Sitecore Experience Accelerator](https://doc.sitecore.net/sitecore_experience_accelerator/setting_up_and_configuring "Set up SXA")
+
+  [Sitecore POwershell Extensions](https://marketplace.sitecore.net/Modules/Sitecore_PowerShell_console.aspx "Set up PowerShell Extensions")
 
 ## Installation
 
